@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "semver": "^7.5.1",
+    "semver": "^7.5.2",
     "storybook": "^5.3.22"
   }
 }
